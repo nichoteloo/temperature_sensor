@@ -1,2 +1,2 @@
 # Temperature_Sensor
-Basic temperature sensor
+Basic TMP_36 temperature sensor
