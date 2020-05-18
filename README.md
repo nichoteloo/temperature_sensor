@@ -1,2 +1,2 @@
-# temperature_sensor
+# Temperature_Sensor
 Basic temperature sensor
